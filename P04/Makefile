@@ -1,4 +1,4 @@
-obj-m	:= kernModTimer.o
+obj-m	:= animaleco.o
 LINUXDIR := /home/madhumitha/Softwares/BuildrootInstallation/buildroot/output/build/linux-4796173fc58688055a99a1cef19a839174067220/
 PWD       := $(shell pwd)
 export ARCH := arm
